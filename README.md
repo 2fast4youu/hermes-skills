@@ -1,5 +1,11 @@
 # hermes-skills
 
+## Preview and download
+
+![Hermes Skills: actual Direct Print command help](docs/screenshots/cli.png)
+
+Actual `--help` output from the included Direct Print script, displayed as a readable command-output screenshot. This repository contains skills and scripts rather than a graphical application. Download the **installable skill folders** in the [release ZIP](https://github.com/2fast4youu/hermes-skills/releases/tag/downloads-2026-10-22), then copy the desired folder into `~/.hermes/skills/`.
+
 Practical skills for [Hermes Agent](https://github.com/NousResearch/hermes-agent), each one extracted from a setup that runs every day.
 Every skill is a plain `SKILL.md` (plus scripts where useful), so it also works with other agents that read Markdown skill files (Claude Code, Codex, …).
 
